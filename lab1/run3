@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./pcom <pcom2.pas &&
+mv prr prd &&
+time ./pint <pcom3.pas

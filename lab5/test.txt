@@ -1,0 +1,10 @@
+a123 123 get 
+set setp |+ ???
+123+++++++|
+
+|+ a |+ a +|
+
+state1 aegasg$1  get+set+setter+getter||123
+
++ ||
+

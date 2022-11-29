@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./pcom <hello.pas &&
+mv prr prd &&
+./pint
